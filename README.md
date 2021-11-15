@@ -1,4 +1,8 @@
-## Hi!! I'm Aiswarya 👋
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/previews/000/242/482/original/female-developer-vector.jpg" width="380px">
+</p>
+
+## Hello !! I'm Aiswarya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I love to visualize, design and develop web pages and love collaborating with people!
 
