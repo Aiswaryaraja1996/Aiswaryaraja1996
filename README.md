@@ -2,6 +2,10 @@
   <img src="https://static.vecteezy.com/system/resources/previews/000/242/482/original/female-developer-vector.jpg" width="380px">
 </p>
 
+
+[<img alt="alt_text" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/aiswarya-rajaponnan/)
+
+
 ## Hello !! I'm Aiswarya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I love to visualize, design and develop web pages and love collaborating with people!
@@ -14,13 +18,14 @@ I love to visualize, design and develop web pages and love collaborating with pe
   <img height="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png">
    <img height="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png">
    <img height="80px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">&nbsp; &nbsp; 
-   <img height="60px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png">
-  
-  
-  
-  
-    
+   <img height="60px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png">   
 </p>
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aiswaryaraja1996)](https://github.com/Aiswaryaraja1996/github-readme-stats&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiswaryaraja1996&layout=compact)](https://github.com/Aiswaryaraja1996/github-readme-stats)
+
 
 
 
