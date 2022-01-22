@@ -49,7 +49,7 @@ Problem Solving!<br/>
 <br/>
 
 <p align="center" width="100%" margin="auto">
-<h4 align="center"> 🤝🏻 &nbsp;CONNECT WITH ME </h4>
+<h4 align="center"> CONNECT WITH ME </h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/aiswarya-rajaponnan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:ammu.rajaponnan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ammu.rajaponnan@gmail.com-blue?style=flat-square&logo=gmail"></a>
