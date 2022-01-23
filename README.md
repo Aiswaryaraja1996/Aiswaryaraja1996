@@ -11,9 +11,9 @@
   <img width="40%" src="https://user-images.githubusercontent.com/63009970/150683148-1283672d-1a01-4d18-aa98-8af14dfa0c44.jpg"/>
 </p>
 </div>
-
+<br/>
 <div align="center">
-  <h3> TECHNOLOGIES AND TOOLS 💻🛠</h3>
+  <img width="50%" src="https://user-images.githubusercontent.com/63009970/150683672-7681986b-5471-4402-9a70-287d0cd8ce0e.jpg"/>
 </div>
 <br/>
 <p align="center" width="100%">
