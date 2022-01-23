@@ -1,23 +1,21 @@
 <p align="center">
   <img src="https://static.vecteezy.com/system/resources/previews/000/242/482/original/female-developer-vector.jpg" width="380px">
 </p>
-<!--    ![title](https://user-images.githubusercontent.com/63009970/150681453-f1b8ba50-760c-4645-a9d8-d6db538facd6.jpg) -->
 
 <div align="center" width="100%"  >  
-<!--   <h2 > HI THERE !! I'M AISWARYA  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2> -->
-  <img width="60%" src="https://user-images.githubusercontent.com/63009970/150681453-f1b8ba50-760c-4645-a9d8-d6db538facd6.jpg"/>
+  <img width="60%" src="https://user-images.githubusercontent.com/63009970/150682799-51e30194-23e4-4b1f-b303-694c29751c0e.jpg"/>
 </div>
 <br/>
 
 <div align="center">
-<img width="60%" src="https://user-images.githubusercontent.com/63009970/150682397-80d3eb83-6244-4875-8615-1148b120f31c.jpg"/>
+  <img width="60%" src="https://user-images.githubusercontent.com/63009970/150683148-1283672d-1a01-4d18-aa98-8af14dfa0c44.jpg"/>
 </p>
 </div>
 <br/>
 <div align="center">
   <h3> TECHNOLOGIES AND TOOLS 💻🛠</h3>
 </div>
-
+<br/>
 <p align="center" width="100%">
     <img  align="center" height="60px" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png">&nbsp;&nbsp;&nbsp;
     <img align="center" height="46px" src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png">&nbsp;&nbsp;&nbsp;
@@ -34,17 +32,17 @@
 
 <p align="center">
     <a href="https://github.com/Aiswaryaraja1996/github-readme-streak-stats">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aiswaryaraja1996&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aiswaryaraja1996"/>
     </a>
 </p>
 
 <br/>
  <p  align="center">
-    <a href="https://github.com/Aiswaryaraja1996/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api?username=Aiswaryaraja1996&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Aiswaryaraja1996/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api?username=Aiswaryaraja1996&show_icons=true&count_private=true" /></a>
     </p>
    <br/> 
     <p  align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiswaryaraja1996&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiswaryaraja1996" height="260px" width="33.25%"/>
     </p>
 <br/>
 
