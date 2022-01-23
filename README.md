@@ -1,16 +1,16 @@
 <p align="center">
   <img src="https://static.vecteezy.com/system/resources/previews/000/242/482/original/female-developer-vector.jpg" width="380px">
 </p>
+<!--    ![title](https://user-images.githubusercontent.com/63009970/150681453-f1b8ba50-760c-4645-a9d8-d6db538facd6.jpg) -->
 
-<div align="center">  
-  <h2> HI THERE !! I'M AISWARYA  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<div align="center" width="100%"  >  
+<!--   <h2 > HI THERE !! I'M AISWARYA  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2> -->
+  <img width="60%" src="https://user-images.githubusercontent.com/63009970/150681453-f1b8ba50-760c-4645-a9d8-d6db538facd6.jpg"/>
 </div>
+<br/>
 
 <div align="center">
-<p>
-Love to visualize, design and develop web pages!<br/>
-Enjoy collaborating with people!<br/>
-Problem Solving!<br/>
+<img width="60%" src="https://user-images.githubusercontent.com/63009970/150682397-80d3eb83-6244-4875-8615-1148b120f31c.jpg"/>
 </p>
 </div>
 <br/>
