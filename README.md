@@ -3,12 +3,12 @@
 </p>
 
 <div align="center" width="100%"  >  
-  <img width="60%" src="https://user-images.githubusercontent.com/63009970/150682799-51e30194-23e4-4b1f-b303-694c29751c0e.jpg"/>
+  <img width="50%" src="https://user-images.githubusercontent.com/63009970/150682799-51e30194-23e4-4b1f-b303-694c29751c0e.jpg"/>
 </div>
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://user-images.githubusercontent.com/63009970/150683148-1283672d-1a01-4d18-aa98-8af14dfa0c44.jpg"/>
+  <img width="40%" src="https://user-images.githubusercontent.com/63009970/150683148-1283672d-1a01-4d18-aa98-8af14dfa0c44.jpg"/>
 </p>
 </div>
 <br/>
