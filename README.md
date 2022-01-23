@@ -49,11 +49,10 @@
 <p align="center" width="100%" margin="auto">
 <h4 align="center"> CONNECT WITH ME </h4>
 <p align="center">
-<a href="https://www.linkedin.com/in/aiswarya-rajaponnan/"  align="center"><img width="3%" height="26px" alt="LinkedIn" src="https://user-images.githubusercontent.com/63009970/150685936-59442cd6-1ad4-4d77-a8e8-562e848e90ac.png"></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:ammu.rajaponnan@gmail.com" align="center"><img alt="Email" width="3%" src="https://user-images.githubusercontent.com/63009970/150685793-2fa578b4-ce02-4516-8620-f97eaa32716f.png"></a>
+<a href="https://www.linkedin.com/in/aiswarya-rajaponnan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:ammu.rajaponnan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ammu.rajaponnan@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 </p>
-
 
 <!--
 **Aiswaryaraja1996/Aiswaryaraja1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
