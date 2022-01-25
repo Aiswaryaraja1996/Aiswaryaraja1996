@@ -7,6 +7,7 @@
 </div>
 <br/>
 
+
 <div align="center">
   <img width="50%" src="https://user-images.githubusercontent.com/63009970/150720572-eac3041d-d19e-4182-9b74-715f7c30e253.jpg"/>
 </p>
@@ -25,7 +26,9 @@
     <img height="52px" align="center" src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png">  
     <img height="60px" align="center" src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg">
     <img height="60px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png"> &nbsp;&nbsp;
-    <img height="44px" width="44px" align="center" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png">
+    <img height="44px" width="44px" align="center" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png"> &nbsp;&nbsp;
+  <img height="44px" width="44px" align="center" src="https://user-images.githubusercontent.com/63009970/150983603-0994a55b-a4ca-499f-ba5e-f81e6f1009c5.png">
+  <img height="100px" width="84px" align="center" src="https://user-images.githubusercontent.com/63009970/150983096-3ca2f4c4-0100-4bf8-9e46-81c5c23a40f5.png">
 </p>
 
 <br/>
