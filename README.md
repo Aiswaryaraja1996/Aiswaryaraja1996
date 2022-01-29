@@ -2,6 +2,8 @@
   <img src="https://static.vecteezy.com/system/resources/previews/000/242/482/original/female-developer-vector.jpg" width="380px">
 </p>
 
+
+
 <div align="center" width="100%"  >  
   <img width="50%" src="https://user-images.githubusercontent.com/63009970/150682799-51e30194-23e4-4b1f-b303-694c29751c0e.jpg"/>
 </div>
@@ -54,8 +56,13 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/aiswarya-rajaponnan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:ammu.rajaponnan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ammu.rajaponnan@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <br/>
+ 
 </p>
 </p>
+
+
+
 
 <!--
 **Aiswaryaraja1996/Aiswaryaraja1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
